@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.20",
+    "@mui/x-data-grid": "^6.18.3",
+    "create-vite": "^5.0.0",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.20.1"
+  }
+}
